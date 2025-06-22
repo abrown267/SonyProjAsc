@@ -1,4 +1,4 @@
-//Anthony Brown (abrown267@toromail.csudh.edu)
+
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
